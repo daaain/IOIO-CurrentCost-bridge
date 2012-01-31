@@ -15,11 +15,9 @@ public final class R {
         public static final int ioio_down=0x7f020001;
     }
     public static final class id {
-        public static final int BufferTextView=0x7f050001;
-        public static final int DebugTextView=0x7f050002;
-        public static final int ToggleButton=0x7f050000;
-        public static final int UartTextScroller=0x7f050003;
-        public static final int UartTextView=0x7f050004;
+        public static final int BufferTextView=0x7f050000;
+        public static final int UartTextScroller=0x7f050001;
+        public static final int UartTextView=0x7f050002;
     }
     public static final class layout {
         public static final int main=0x7f030000;

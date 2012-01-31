@@ -4,28 +4,9 @@
     android:orientation="vertical"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent">
-
-	<ToggleButton
-		android:id="@+id/ToggleButton"
-		android:layout_width="wrap_content"
-		android:layout_height="wrap_content"
-		android:layout_gravity="center_horizontal"
-		android:layout_margin="10px"
-		android:textOff="Led is OFF"
-		android:textOn="Led is ON"
-		/>
 	
 	<TextView
 		android:id="@+id/BufferTextView"
-		android:layout_width="wrap_content"
-		android:layout_height="20px"
-		android:layout_gravity="center_horizontal"
-		android:layout_margin="5px"
-		android:text="-"
-		/>
-	
-	<TextView
-		android:id="@+id/DebugTextView"
 		android:layout_width="wrap_content"
 		android:layout_height="20px"
 		android:layout_gravity="center_horizontal"
